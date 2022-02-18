@@ -1,0 +1,12 @@
+body
+{
+    text-align: center;
+    background-color:darkslateblue;
+}
+
+#header
+{
+    font-size: 30px;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
